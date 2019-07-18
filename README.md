@@ -5,7 +5,7 @@
 ### Author: Adrienne Easton
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab-08-express-routing-and-connected-api/pull/1)
+* [submission PR](https://github.com/401-advanced-javascript-aeaston/lab-08-express-routing-and-connected-api/pull/3)
 * [travis]([![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-08-express-routing-and-connected-api.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-08-express-routing-and-connected-api))
 
 #### Documentation
