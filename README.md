@@ -6,9 +6,7 @@
 
 ### Links and Resources
 * [submission PR]()
-* [travis]()
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [travis]([![Build Status](https://travis-ci.com/401-advanced-javascript-aeaston/lab-08-express-routing-and-connected-api.svg?branch=master)](https://travis-ci.com/401-advanced-javascript-aeaston/lab-08-express-routing-and-connected-api))
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)
@@ -31,16 +29,10 @@ Usage Notes or examples
 * `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+To start type npm i.
   
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+To run tests type npm test.
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML photo](./assets/espress-routing.jpg)
